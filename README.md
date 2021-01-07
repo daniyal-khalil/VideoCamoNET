@@ -17,6 +17,7 @@ Training and test protocols:
 
 The optimum results are obtained on 40-th iteration by considering 0.0001 as learning rate, 36 as the batch size. The size of training image is 352, and gradient decay margin, decay rate of learning rate per decay step are set in 0.5 and 0.1 consecutively. The number of channels is set on 32. The overall evaluation on training is based on comparing research and identification output with Ground Truth which is correlated with the mean absolute error. It approximately takes 60-70 minutes for training.
 
+MATLAB codes are defined as .m files which pave the way to extract the F-measure, E-measure, S-measure, and the mae as well. main.m is the main code which should be compiled and replace the data which has been obtained from the python on the directory that is mentioned in the main.m file.
 
 Dataset:
 
