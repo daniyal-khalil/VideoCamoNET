@@ -1,5 +1,5 @@
 # VideoCamoNET
 
-Daniyal Khalil \n
-Muhammad Bilal Bin Khalid \n
-Sepehr Nour Mohammad\n
+Daniyal Khalil \
+Muhammad Bilal Bin Khalid \
+Sepehr Nour Mohammad\
