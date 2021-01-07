@@ -9,6 +9,8 @@ Upload databases which resize the images for the model usage
 
 Resnet code defines a forward resnet architecture
 
+Searching attenuation is the code for eliminating irrelevant feature from the images
+
 Train_eval describs about the loss function which is applied for both searching and identification modules
 
 SINet comes with combination of the searching module, the identification modules, Receptive fields, and Partial decoder components
