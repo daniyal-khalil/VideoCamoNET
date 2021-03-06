@@ -28,4 +28,4 @@ Link: https://datasets.bifrost.ai/info/1843
 
 Daniyal Khalil \
 Muhammad Bilal Bin Khalid \
-Sepehr Nour Mohammad
+Sepehr Nour Mohammad.
